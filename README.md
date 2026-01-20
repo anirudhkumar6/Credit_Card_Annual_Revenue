@@ -64,7 +64,7 @@ To analyze one year of credit card transaction and customer data in order to:
 ### 1️⃣ Data Understanding
 - Reviewed dataset structure and column definitions
 - Identified data types and quality issues
-- Understood relationship between customer and transaction data
+- Understood the relationship between customer and transaction data
 
 ### 2️⃣ Data Cleaning
 - Imported CSV files into SQL Server
@@ -161,5 +161,6 @@ It does not represent real bank or customer data and is not intended for product
 ---
 
 ## 👤 Author
-**Anirudh Kumar**  
+**Name** : **Anirudh Kumar** 
+
 Aspiring Business / Data Analyst
