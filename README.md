@@ -161,6 +161,10 @@ It does not represent real bank or customer data and is not intended for product
 ---
 
 ## 👤 Author
-**Name** : **Anirudh Kumar** 
+### Name: Anirudh Kumar
+
+#### 📧 Email: *<anirudhkumar79030@gmail.com>*
+
+#### 🔗 LinkedIn: *<https://www.linkedin.com/in/anirudhkumar6>*
 
 Aspiring Business / Data Analyst
